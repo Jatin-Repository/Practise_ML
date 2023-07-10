@@ -1,0 +1,101 @@
+,name,rating,review-count,company-type,salary
+0,Tata Consultancy Services,3.9,1.3L,N/A,1.2L
+1,Accenture,4.1,1.5L,N/A,75.5T
+2,Amazon,4.1,1.7L,N/A,41T
+3,Cognizant Technology Solutions,3.9,84.8T,N/A,70T
+4,Deloitte,4.1,98T,N/A,32.5T
+5,IBM,4.2,1L,N/A,32.2T
+6,Capgemini,4.0,68.8T,N/A,45.1T
+7,Wipro,3.8,53.2T,N/A,45.5T
+8,EY,3.9,70.4T,N/A,18.4T
+9,HCLTech,3.7,40T,N/A,32.4T
+10,Oracle,3.9,48.5T,Enterprise Software & Network Solutions,18.8T
+11,PwC,3.9,71.6T,Accounting & Tax,10.9T
+12,Tech Mahindra,3.6,31.5T,Information Technology Support Services,24.5T
+13,Microsoft,4.3,48.2T,Computer Hardware Development,9.4T
+14,KPMG,3.8,55T,Business Consulting,10.3T
+15,Teleperformance,4.5,47.6T,Telecommunications Services,8.2T
+16,Google,4.4,43.5T,Internet & Web Services,7.9T
+17,Dell Technologies,4.3,32.5T,Information Technology Support Services,9.6T
+18,Cisco Systems,4.4,31.1T,Enterprise Software & Network Solutions,7.7T
+19,Wells Fargo,3.7,45.5T,Banking & Lending,4.9T
+20,DXC Technology,3.6,23.4T,N/A,9.9T
+21,Genpact,4.0,19.9T,N/A,15T
+22,Concentrix,4.3,29.1T,N/A,8.7T
+23,LTI,3.8,12.3T,N/A,11.5T
+24,J.P. Morgan,4.1,23.3T,N/A,7.3T
+25,Citi,3.9,31.2T,N/A,4.5T
+26,Intel Corporation,4.2,28.4T,N/A,4T
+27,SAP,4.4,27.8T,N/A,4.9T
+28,HSBC,3.8,26.9T,N/A,5T
+29,Qualcomm,4.1,9.6T,N/A,3.6T
+30,ABC,3.9,14.4T,Broadcast Media,10.3T
+31,Bank of America,4.0,37.9T,Banking & Lending,2.7T
+32,Goldman Sachs,3.9,16.7T,Investment & Asset Management,4.8T
+33,Target,4.4,75.6T,General Merchandise & Superstores,1.5T
+34,Mindtree,4.0,11.1T,Information Technology Support Services,9.9T
+35,Honeywell,4.0,19.8T,Computer Hardware Development,5.3T
+36,CGI,3.9,15.8T,Business Consulting,4.7T
+37,Barclays,4.0,17.6T,Banking & Lending,4.9T
+38,Siemens,4.1,20T,Electronics Manufacturing,4.3T
+39,ICICI Bank,3.7,11.4T,Banking & Lending,11.7T
+40,Mphasis,3.6,8.6T,Information Technology Support Services,7.1T
+41,JPMorgan Chase & Co,4.0,22.3T,Banking & Lending,3.1T
+42,Ericsson-Worldwide,4.2,17.7T,Telecommunications Services,5T
+43,Verizon,3.9,32.1T,Telecommunications Services,2.4T
+44,ADP,4.0,18.3T,Enterprise Software & Network Solutions,3.2T
+45,NTT DATA,3.9,13.5T,Information Technology Support Services,5.6T
+46,Nokia,4.2,17.5T,Telecommunications Services,4.7T
+47,Hewlett Packard Enterprise | HPE,4.2,16.6T,Information Technology Support Services,3.8T
+48,Morgan Stanley,3.9,17.1T,Investment & Asset Management,3.2T
+49,Capgemini Engineering,3.7,11.7T,Information Technology Support Services,5.6T
+50,Freelancer,4.2,14.3T,HR Consulting,5.9T
+51,American Express,4.2,15.6T,Financial Transaction Processing,4.2T
+52,Salesforce,4.4,16.6T,Enterprise Software & Network Solutions,2.3T
+53,Amdocs,4.0,10.5T,Enterprise Software & Network Solutions,6.6T
+54,Publicis Sapient,3.8,9T,Business Consulting,6.8T
+55,Robert Bosch,4.2,14.9T,Computer Hardware Development,4.3T
+56,ZS Associates,3.8,6.7T,Business Consulting,7.6T
+57,IQVIA,4.0,12.5T,Biotech & Pharmaceuticals,3.8T
+58,McDonald's,3.5,1.2L,Restaurants & Cafes,625
+59,Thomson Reuters,4.4,14.8T,Enterprise Software & Network Solutions,2.7T
+60,FIS,3.7,10.8T,Financial Transaction Processing,5T
+61,Vodafone,4.0,16T,Telecommunications Services,3T
+62,UST,3.9,7.2T,Information Technology Support Services,4.7T
+63,Cerner,3.6,9.8T,Computer Hardware Development,3.4T
+64,Fidelity Investments,4.3,14.5T,Investment & Asset Management,2.4T
+65,GE,4.0,18T,Machinery Manufacturing,2.2T
+66,Apple,4.4,37.8T,Computer Hardware Development,1T
+67,Virtusa,3.8,8T,Information Technology Support Services,5.9T
+68,Larsen & Toubro,3.8,7T,Construction,6.5T
+69,Atos-Syntel,3.6,7.5T,Information Technology Support Services,5.5T
+70,HDFC Bank,3.6,7.7T,Banking & Lending,8.6T
+71,VMware,4.5,10.6T,Enterprise Software & Network Solutions,3.1T
+72,Adobe,4.4,8.7T,Computer Hardware Development,4T
+73,Atos,3.7,11.9T,Information Technology Support Services,3.6T
+74,UnitedHealth Group,3.7,15.8T,Healthcare Services & Hospitals,1.8T
+75,Deutsche Bank,4.0,11.7T,Banking & Lending,3T
+76,Tata Consultancy Services (North America),3.8,8.8T,Information Technology Support Services,5.1T
+77,Schneider Electric,4.2,13.4T,Energy & Utilities,2.8T
+78,Philips,4.0,11T,Healthcare Services & Hospitals,2.4T
+79,Cognizant,3.8,6.6T,N/A,6.8T
+80,TCS,3.9,6.7T,N/A,7.3T
+81,Samsung Electronics,3.8,13.6T,Electronics Manufacturing,3.2T
+82,Credit Suisse,4.0,11.4T,Investment & Asset Management,2.8T
+83,BNY Mellon,3.6,10.8T,Investment & Asset Management,3.2T
+84,Lowe's Home Improvement,4.3,38.8T,Home Furniture & Housewares Stores,973
+85,NatWest Group,4.0,8.7T,Banking & Lending,3.8T
+86,Zensar Technologies,3.9,4.2T,Information Technology Support Services,3.2T
+87,Société Générale,3.7,10.8T,Investment & Asset Management,2.6T
+88,Persistent Systems,4.0,5.7T,Information Technology Support Services,5.5T
+89,McKinsey & Company,4.3,9.8T,Business Consulting,1.5T
+90,Sutherland,3.8,8.6T,HR Consulting,3.3T
+91,Hexaware Technologies,3.8,5T,Information Technology Support Services,4.2T
+92,Axis Bank,3.8,6.4T,Banking & Lending,6.5T
+93,Reliance Industries,3.9,6.1T,Energy & Utilities,6.4T
+94,Unilever,4.1,14.7T,Consumer Product Manufacturing,1.6T
+95,BNP Paribas,3.8,13.2T,Banking & Lending,1.9T
+96,UBS,4.0,13T,Investment & Asset Management,1.7T
+97,Jio,3.8,5.3T,"Cable, Internet & Telephone Providers",6.1T
+98,Flipkart,4.1,4.9T,Internet & Web Services,6.6T
+99,GlobalLogic,4.0,6.2T,Information Technology Support Services,4.2T
